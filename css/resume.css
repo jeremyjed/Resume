@@ -35,7 +35,7 @@ ul {
   list-style-position: outside;
 }
 
-li .p{
+li + p{
   font-size: 20%; 
   text-align:center;
 }
