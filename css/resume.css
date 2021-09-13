@@ -35,7 +35,10 @@ ul {
   list-style-position: outside;
 }
 
-
+li .p{
+  font-size: 20%; 
+  text-align:center;
+}
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
